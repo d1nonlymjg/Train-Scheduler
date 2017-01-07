@@ -1,0 +1,25 @@
+body {
+	background-image: url("../images/vero-beach-train-station-photo.jpg");
+	background-size: 100% 190%;
+	background-repeat: no-repeat;
+}
+
+h3, th, td {
+    text-align: center;
+}
+
+.jumbotron {
+    opacity: 0.9;
+	background-color: #286090;
+}
+
+#pageTitle {
+    color: #dddddd;
+    text-shadow: 1px 1px #be0000;
+    text-align: center;    
+
+}
+
+.panel {
+	opacity: 0.9;
+}
